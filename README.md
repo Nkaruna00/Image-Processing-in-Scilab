@@ -5,8 +5,8 @@ Application to apply differents filters to  (Sobel, Prewitt, etc...) writed in S
 
 ## About the projects
 
-This application allows you to apply filters on the video stream of the webcam
-The filters used are high pass and low pass filters
+This application allows you to apply filters on the video stream of the webcam.
+The filters used are high pass and low pass filters.
 
 high-pass filters:
 * Sobel (3x3)
@@ -32,14 +32,13 @@ low-pass filters:
 ### Dependencies
 
 * Scilab 5.5.2
-* 
 
 
 
 ### Executing program
 
 * Enable Webcam
-* Run Projet_scilab.sce
+* Run Image_processing.sce
 * Apply filters from the High and Low Filters drop-down menu to view the video stream with the desired filter
 * Click on stop the video to stop the filter
 
